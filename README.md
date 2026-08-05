@@ -1,93 +1,134 @@
 <div align="center">
 
-```
-> whoami
-root@github:~$ _
-```
+<img src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=180&section=header&text=YOUR_USERNAME&fontSize=60&fontColor=00FF41&fontAlignY=55&animation=fadeIn" width="100%"/>
 
-# `[ USERNAME.dev ]`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=00FF41&background=000000&center=true&vCenter=true&width=650&lines=%3E+booting+system...;%3E+access+granted;%3E+Full-Stack+Developer;%3E+Data+Analyst;%3E+ready_" alt="Typing SVG" />
 
-**`SYSTEM ONLINE`** · `STATUS: CODING` · `UPTIME: ∞`
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=6DFFA4&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Open+Source+Contributor;Building+cool+stuff+in+the+dark;Coffee-driven+development)
+![visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=CONNECTIONS&color=00FF41&style=flat-square&labelColor=000000)
 
 </div>
 
----
+<br>
 
-### `// ABOUT`
-
-```yaml
-name: Nama Kamu
-role: Software Engineer
-location: Indonesia
-focus: [ Web Dev, Automation, Open Source ]
-currently_learning: Rust, Systems Design
-fun_fact: "compiles code faster than I sleep"
+```bash
+guest@github:~$ cat about.txt
 ```
 
----
+```
+> Building software with PHP / Node.js / JavaScript
+> Mining insights from data with SQL / Python / Tableau
+> Turning raw logs into decisions, and ideas into shipped code
+> Status: online | Location: Indonesia | Mode: building
+```
 
-### `// TECH_STACK`
+<br>
 
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=6DFFA4)
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=6DFFA4)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&logoColor=6DFFA4)
-![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=6DFFA4)
-![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=6DFFA4)
-![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&logoColor=6DFFA4)
-
-</div>
-
----
-
-### `// STATS`
+```bash
+guest@github:~$ ls -la ./stack
+```
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=nightowl&hide_border=true&bg_color=050705&title_color=6DFFA4&icon_color=6DFFA4&text_color=e6f2ea)
+<img src="https://skillicons.dev/icons?i=php,nodejs,js,python,mysql,html,css,git,github&theme=dark" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=nightowl&hide_border=true&bg_color=050705&title_color=6DFFA4&text_color=e6f2ea)
+<br><br>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=nightowl&hide_border=true&background=050705&stroke=6DFFA4&ring=6DFFA4&fire=6DFFA4&currStreakLabel=6DFFA4)
+![Excel](https://img.shields.io/badge/-EXCEL-000000?style=flat-square&logo=microsoft-excel&logoColor=00FF41)
+![Tableau](https://img.shields.io/badge/-TABLEAU-000000?style=flat-square&logo=tableau&logoColor=00FF41)
+![PostgreSQL](https://img.shields.io/badge/-POSTGRESQL-000000?style=flat-square&logo=postgresql&logoColor=00FF41)
 
 </div>
 
----
+<br>
 
-### `// CONTRIBUTION_GRAPH`
+```bash
+guest@github:~$ ./run_diagnostics.sh --stats
+```
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg)
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&ring_color=00FF41" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" height="165"/>
 
 </div>
-
----
-
-### `// CONNECT`
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=6DFFA4)](mailto:email@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=6DFFA4)](https://linkedin.com/in/username)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=6DFFA4)](https://instagram.com/username)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark&bg_color=000000&title_color=00FF41&text_color=c9d1d9" />
 
 </div>
 
----
+<br>
+
+```bash
+guest@github:~$ python3 contribution_graph.py --animate
+```
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=00FF41&line=00FF41&point=ffffff&hide_border=true" width="90%"/>
+
+</div>
+
+<br>
+
+```bash
+guest@github:~$ ./snake_game.exe
+```
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
+<sub><i>* animasi ular ini otomatis dibuat dari histori kontribusi kamu via GitHub Action (setup di bawah)</i></sub>
+
+</div>
+
+<br>
+
+```bash
+guest@github:~$ ls ./projects --featured
+```
+
+<div align="center">
+<table>
+<tr>
+<td>
+<a href="https://github.com/YOUR_USERNAME/REPO_1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_1&hide_border=true&theme=github_dark&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+</a>
+</td>
+<td>
+<a href="https://github.com/YOUR_USERNAME/REPO_2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_2&hide_border=true&theme=github_dark&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+</a>
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+```bash
+guest@github:~$ cat contact.sh
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/-EMAIL-000000?style=flat-square&logo=gmail&logoColor=00FF41)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=00FF41)](https://YOUR_PORTFOLIO.com)
+
+</div>
+
+<br>
 
 <div align="center">
 
 ```
-> echo "thanks for stopping by"
-thanks for stopping by
-> exit
-process finished with exit code 0
+> process complete. connection secure. thanks for stopping by_
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&color=6dffa4&style=flat-square&label=SIGNAL+RECEIVED)
+<img src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=100&section=footer" width="100%"/>
 
 </div>
