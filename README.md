@@ -1,12 +1,14 @@
-<table>
-<tr>
-<td width="60%" valign="top">
+<div align="center">
 
 # Hi, I'm Your Name
 
 ### Backend Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%9A%80;Node.js+%C2%B7+TypeScript+%C2%B7+NestJS;Building+Clean+%26+Scalable+APIs;Always+Learning+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%9A%80;Node.js+%C2%B7+TypeScript+%C2%B7+NestJS;Building+Clean+%26+Scalable+APIs;Always+Learning+Something+New)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+
+</div>
 
 ## 👋 About Me
 
@@ -24,15 +26,6 @@ const me = {
   available:  true, // open to new opportunities 🚀
 };
 ```
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://private-user-images.githubusercontent.com/74038190/238355375-51865424-10f2-4859-8055-b62b1c0d8d36.gif" width="100%">
-
-</td>
-</tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
