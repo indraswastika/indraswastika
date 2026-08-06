@@ -1,16 +1,12 @@
-<div align="center">
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:1A1A2E&height=220&section=header&text=Hi,%20I'm%20Your%20Name&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Problem%20Solver%20%C2%B7%20Lifelong%20Learner&descAlignY=55&descSize=17" width="100%"/>
+# Hi, I'm Your Name
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Node.js+%C2%B7+TypeScript+%C2%B7+NestJS;Building+Clean+%26+Scalable+APIs;Always+Learning+Something+New)](https://git.io/typing-svg)
+### Backend Developer
 
-<img src="https://img.shields.io/github/followers/username-github?label=Followers&style=for-the-badge&color=8B5CF6&labelColor=0D0D0D" />
-<img src="https://img.shields.io/github/stars/username-github?label=Stars&style=for-the-badge&color=8B5CF6&labelColor=0D0D0D" />
-<img src="https://komarev.com/ghpvc/?username=username-github&label=Profile+Views&style=for-the-badge&color=8B5CF6&labelColor=0D0D0D" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%9A%80;Node.js+%C2%B7+TypeScript+%C2%B7+NestJS;Building+Clean+%26+Scalable+APIs;Always+Learning+Something+New)](https://git.io/typing-svg)
 
 ## 👋 About Me
 
@@ -28,6 +24,15 @@ const me = {
   available:  true, // open to new opportunities 🚀
 };
 ```
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://private-user-images.githubusercontent.com/74038190/238355375-51865424-10f2-4859-8055-b62b1c0d8d36.gif" width="100%">
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -76,11 +81,3 @@ const me = {
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </p>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,100:0F0F0F&height=120&section=footer" width="100%"/>
-
-<sub>Made with 💜 by Your Name · City, Country</sub>
-
-</div>
