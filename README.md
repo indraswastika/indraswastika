@@ -62,3 +62,36 @@ const me = {
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </p>
+
+### 📦 Open Source Projects
+
+<table>
+<tr>
+<th align="left">Project</th>
+<th>Stars</th>
+<th>Forks</th>
+<th>Issues</th>
+<th>Pull Requests</th>
+</tr>
+<tr>
+<td><a href="https://github.com/username-github/repo-one">repo-name-one</a></td>
+<td><img src="https://img.shields.io/badge/stars-191-1A1A2E?style=flat-square&labelColor=1A1A2E&color=3B82F6"></td>
+<td><img src="https://img.shields.io/badge/forks-48-1A1A2E?style=flat-square&labelColor=1A1A2E&color=3B82F6"></td>
+<td><img src="https://img.shields.io/badge/issues-9%20open-1A1A2E?style=flat-square&labelColor=1A1A2E&color=EAB308"></td>
+<td><img src="https://img.shields.io/badge/PRs-18%20open-1A1A2E?style=flat-square&labelColor=1A1A2E&color=EAB308"></td>
+</tr>
+<tr>
+<td><a href="https://github.com/username-github/repo-two">repo-name-two</a></td>
+<td><img src="https://img.shields.io/badge/stars-126-1A1A2E?style=flat-square&labelColor=1A1A2E&color=3B82F6"></td>
+<td><img src="https://img.shields.io/badge/forks-26-1A1A2E?style=flat-square&labelColor=1A1A2E&color=3B82F6"></td>
+<td><img src="https://img.shields.io/badge/issues-3%20open-1A1A2E?style=flat-square&labelColor=1A1A2E&color=EAB308"></td>
+<td><img src="https://img.shields.io/badge/PRs-24%20open-1A1A2E?style=flat-square&labelColor=1A1A2E&color=EAB308"></td>
+</tr>
+<tr>
+<td><a href="https://github.com/username-github/repo-three">repo-name-three</a></td>
+<td><img src="https://img.shields.io/badge/stars-47-1A1A2E?style=flat-square&labelColor=1A1A2E&color=3B82F6"></td>
+<td><img src="https://img.shields.io/badge/forks-11-1A1A2E?style=flat-square&labelColor=1A1A2E&color=3B82F6"></td>
+<td><img src="https://img.shields.io/badge/issues-0%20open-1A1A2E?style=flat-square&labelColor=1A1A2E&color=22C55E"></td>
+<td><img src="https://img.shields.io/badge/PRs-8%20open-1A1A2E?style=flat-square&labelColor=1A1A2E&color=EAB308"></td>
+</tr>
+</table>
