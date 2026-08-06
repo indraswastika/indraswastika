@@ -7,6 +7,13 @@ I'm a **Backend Developer** based in **City, Country 🌍**, currently working a
 
 I enjoy writing clean, maintainable code that bridges business needs and solid technical solutions — from architecture decisions all the way to production deploys.
 
+<p>
+<img src="https://img.shields.io/github/followers/your-username?style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=white&label=FOLLOWERS">
+<img src="https://img.shields.io/github/stars/your-username?style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=white&label=STARS">
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/your-username/repos?per_page=100%26type=owner&query=length(@)&label=REPOS&style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=white">
+</p>
+
+**eat sleep code repeat**
 ```ts
 const me = {
   role:       "Backend Developer",
