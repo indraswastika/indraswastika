@@ -20,11 +20,13 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/github/followers/username-github?label=Followers&style=social">
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/username-github?label=Stars&style=social">
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=username-github&label=Profile+Views&color=38BDF8&style=flat"/>
+  <a href="https://github.com/username-github?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/username-github?label=Followers&style=for-the-badge&color=38BDF8&labelColor=020617">
+  </a>
+  <a href="https://github.com/username-github?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/github/stars/username-github?label=Stars&style=for-the-badge&color=38BDF8&labelColor=020617">
+  </a>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/username-github/profile-views&query=$.value&label=Profile+Views&style=for-the-badge&color=38BDF8&labelColor=020617">
 </p>
 
 </div>
