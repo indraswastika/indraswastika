@@ -1,4 +1,4 @@
-<h2><font color="#39FF14">~$ About Me</font></h2>
+## <span style="color:#39FF14">~$ About Me</span>
 
 <font color="#39FF14">I'm a <b>Backend Developer</b> based in <b>City, Country</b>, currently working at <b>Your Company</b>, focused on building APIs, system integrations, and automations that solve real operational problems.</font>
 
@@ -29,7 +29,7 @@ const me = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2><font color="#39FF14">~$ Socials</font></h2>
+## <span style="color:#39FF14">~$ Socials</span>
 
 <p>
 <a href="https://instagram.com/your_username" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=39FF14"></a>
@@ -56,7 +56,7 @@ const me = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2><font color="#39FF14">~$ Tech Stack</font></h2>
+## <span style="color:#39FF14">~$ Tech Stack</span>
 
 <p>
 <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=39FF14">
@@ -87,7 +87,7 @@ const me = {
 <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=39FF14">
 </p>
 
-<h3><font color="#39FF14">~$ Tools</font></h3>
+### <span style="color:#39FF14">~$ Tools</span>
 
 <p>
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=39FF14">
@@ -112,7 +112,7 @@ const me = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2><font color="#39FF14">~$ Open Source Projects</font></h2>
+## <span style="color:#39FF14">~$ Open Source Projects</span>
 
 <table>
 <tr>
