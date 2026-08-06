@@ -73,41 +73,6 @@ Saya suka menulis kode yang bersih dan mudah dirawat, menjembatani kebutuhan bis
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=username-github&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username-github&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" width="42%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=username-github&theme=tokyonight&hide_border=true&background=0D1117" width="60%"/>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=username-github&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-## 🚀 Proyek Unggulan
-
-| Proyek | Stack | Deskripsi |
-|---|---|---|
-| 🔧 **Nama Proyek 1** | Node.js · REST API | Deskripsi singkat proyek dan masalah yang diselesaikan |
-| 📦 **Nama Proyek 2** | NestJS · TypeScript · MySQL | Deskripsi singkat proyek dan masalah yang diselesaikan |
-| 📚 **Nama Proyek 3** | Next.js · MongoDB | Deskripsi singkat proyek dan masalah yang diselesaikan |
-
----
-
 ## 💼 Untuk Rekruter
 
 Saya terbuka untuk peluang di tim yang menghargai:
