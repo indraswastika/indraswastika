@@ -8,10 +8,10 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/username-kamu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://website-kamu.dev" target="_blank"><img src="https://img.shields.io/badge/Website-Kunjungi-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white"></a>
-<a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Email-Hubungi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://instagram.com/username_kamu" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://linkedin.com/in/username-kamu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://website-kamu.dev" target="_blank"><img src="https://img.shields.io/badge/Website-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=EA4335"></a>
+<a href="https://instagram.com/username_kamu" target="_blank"><img src="https://img.shields.io/badge/Instagram-1A1A1A?style=for-the-badge&logo=instagram&logoColor=E4405F"></a>
 
 <br/><br/>
 
@@ -35,49 +35,44 @@ Saya suka menulis kode yang bersih dan mudah dirawat, menjembatani kebutuhan bis
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### Tech Stack
+### 🌐 Socials
 
-<table>
-<tr>
-<td valign="top" width="25%">
+<p>
+<a href="https://instagram.com/username_kamu" target="_blank"><img src="https://img.shields.io/badge/Instagram-1A1A1A?style=for-the-badge&logo=instagram&logoColor=E4405F"></a>
+<a href="https://linkedin.com/in/username-kamu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a>
+<a href="https://medium.com/@username-kamu" target="_blank"><img src="https://img.shields.io/badge/Medium-1A1A1A?style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/username-kamu" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-1A1A1A?style=for-the-badge&logo=stackoverflow&logoColor=F58025"></a>
+<a href="https://x.com/username_kamu" target="_blank"><img src="https://img.shields.io/badge/X-1A1A1A?style=for-the-badge&logo=x&logoColor=white"></a>
+<a href="https://youtube.com/@username-kamu" target="_blank"><img src="https://img.shields.io/badge/YouTube-1A1A1A?style=for-the-badge&logo=youtube&logoColor=FF0000"></a>
+<a href="https://codepen.io/username-kamu" target="_blank"><img src="https://img.shields.io/badge/CodePen-1A1A1A?style=for-the-badge&logo=codepen&logoColor=white"></a>
+</p>
 
-**Backend**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)<br/>
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)<br/>
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)<br/>
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+### 🧰 Tech Stack
 
-</td>
-<td valign="top" width="25%">
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-2E2E2E?style=flat-square&logo=react&logoColor=white)<br/>
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)<br/>
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-</td>
-<td valign="top" width="25%">
-
-**Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)<br/>
-![MongoDB](https://img.shields.io/badge/MongoDB-10AA50?style=flat-square&logo=mongodb&logoColor=white)<br/>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-</td>
-<td valign="top" width="25%">
-
-**Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)<br/>
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)<br/>
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-</td>
-</tr>
-</table>
+<p>
+<img src="https://img.shields.io/badge/CSS3-1A1A1A?style=for-the-badge&logo=css3&logoColor=1572B6">
+<img src="https://img.shields.io/badge/HTML5-1A1A1A?style=for-the-badge&logo=html5&logoColor=E34F26">
+<img src="https://img.shields.io/badge/Java-1A1A1A?style=for-the-badge&logo=openjdk&logoColor=ED8B00">
+<img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/TypeScript-1A1A1A?style=for-the-badge&logo=typescript&logoColor=3178C6">
+<img src="https://img.shields.io/badge/Node.js-1A1A1A?style=for-the-badge&logo=node.js&logoColor=339933">
+<img src="https://img.shields.io/badge/NestJS-1A1A1A?style=for-the-badge&logo=nestjs&logoColor=E0234E">
+<img src="https://img.shields.io/badge/Express-1A1A1A?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/React-1A1A1A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Next.js-1A1A1A?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-1A1A1A?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC">
+<img src="https://img.shields.io/badge/MySQL-1A1A1A?style=for-the-badge&logo=mysql&logoColor=4479A1">
+<img src="https://img.shields.io/badge/MongoDB-1A1A1A?style=for-the-badge&logo=mongodb&logoColor=47A248">
+<img src="https://img.shields.io/badge/PostgreSQL-1A1A1A?style=for-the-badge&logo=postgresql&logoColor=4169E1">
+<img src="https://img.shields.io/badge/Docker-1A1A1A?style=for-the-badge&logo=docker&logoColor=2496ED">
+<img src="https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge&logo=git&logoColor=F05032">
+<img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-1A1A1A?style=for-the-badge&logo=postman&logoColor=FF6C37">
+<img src="https://img.shields.io/badge/VS_Code-1A1A1A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC">
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
