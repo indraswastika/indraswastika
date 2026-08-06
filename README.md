@@ -1,9 +1,9 @@
 <table width="100%">
 <tr><td>
 
-## 👋 About Me
+## ~$ About Me
 
-I'm a **Backend Developer** based in **City, Country 🌍**, currently working at **Your Company**, focused on building APIs, system integrations, and automations that solve real operational problems.
+I'm a **Backend Developer** based in **City, Country**, currently working at **Your Company**, focused on building APIs, system integrations, and automations that solve real operational problems.
 
 I enjoy writing clean, maintainable code that bridges business needs and solid technical solutions — from architecture decisions all the way to production deploys.
 
@@ -19,6 +19,15 @@ while (true) {
   sleep();
   code();
 }
+
+const me = {
+  role:       "Backend Developer",
+  company:    "Your Company",
+  location:   "City, Country",
+  stack:      ["Node.js", "TypeScript", "NestJS", "Express"],
+  funFact:    "Always learning something new every week",
+  available:  true, // open to new opportunities
+};
 ```
 
 </td></tr>
@@ -29,7 +38,7 @@ while (true) {
 <table width="100%">
 <tr><td>
 
-## 🌐 Socials
+## ~$ Socials
 
 <p>
 <a href="https://instagram.com/your_username" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -62,7 +71,7 @@ while (true) {
 <table width="100%">
 <tr><td>
 
-## 🧰 Tech Stack
+## ~$ Tech Stack
 
 <p>
 <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
@@ -93,7 +102,7 @@ while (true) {
 <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white">
 </p>
 
-### 🛠️ Tools
+### ~$ Tools
 
 <p>
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white">
@@ -124,7 +133,7 @@ while (true) {
 <table width="100%">
 <tr><td>
 
-## 📦 Open Source Projects
+## ~$ Open Source Projects
 
 <table>
 <tr>
@@ -164,6 +173,6 @@ while (true) {
 
 <div align="center">
 
-<sub>⭐ If you like what you see, feel free to check out my repositories · Thanks for stopping by!</sub>
+<sub>If you like what you see, feel free to check out my repositories · Thanks for stopping by!</sub>
 
 </div>
