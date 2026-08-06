@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=220&section=header&text=Halo,%20Saya%20Nama%20Kamu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:2E2E2E&height=220&section=header&text=Halo,%20Saya%20Nama%20Kamu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlignY=55&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Node.js+%C2%B7+TypeScript+%C2%B7+NestJS;Membangun+API+yang+Bersih+%26+Skalabel;Selalu+Belajar+Hal+Baru)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D4D4D4&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Node.js+%C2%B7+TypeScript+%C2%B7+NestJS;Membangun+API+yang+Bersih+%26+Skalabel;Selalu+Belajar+Hal+Baru)](https://git.io/typing-svg)
 
 <p>
   <a href="https://linkedin.com/in/username-kamu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://website-kamu.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Kunjungi-020617?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/Website-Kunjungi-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   <a href="mailto:emailkamu@gmail.com">
     <img src="https://img.shields.io/badge/Email-Hubungi-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
@@ -21,12 +21,12 @@
 
 <p>
   <a href="https://github.com/username-github?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/username-github?label=Followers&style=for-the-badge&color=38BDF8&labelColor=020617">
+    <img src="https://img.shields.io/github/followers/username-github?label=Followers&style=for-the-badge&color=BEBEBE&labelColor=1A1A1A">
   </a>
   <a href="https://github.com/username-github?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/github/stars/username-github?label=Stars&style=for-the-badge&color=38BDF8&labelColor=020617">
+    <img src="https://img.shields.io/github/stars/username-github?label=Stars&style=for-the-badge&color=BEBEBE&labelColor=1A1A1A">
   </a>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/username-github/profile-views&query=$.value&label=Profile+Views&style=for-the-badge&color=38BDF8&labelColor=020617">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/username-github/profile-views&query=$.value&label=Profile+Views&style=for-the-badge&color=BEBEBE&labelColor=1A1A1A">
 </p>
 
 </div>
@@ -54,7 +54,7 @@ Saya suka menulis kode yang bersih dan mudah dirawat, menjembatani kebutuhan bis
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-38BDF8?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-2E2E2E?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -89,7 +89,7 @@ Saya terbuka untuk peluang di tim yang menghargai:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E2E2E,100:0F0F0F&height=120&section=footer" width="100%"/>
 
 <sub>Dibuat dengan 💙 oleh Nama Kamu · Kota, Indonesia</sub>
 
