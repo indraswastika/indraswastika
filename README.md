@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:2E2E2E&height=220&section=header&text=Halo,%20Saya%20Nama%20Kamu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlignY=55&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D4D4D4&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Node.js+%C2%B7+TypeScript+%C2%B7+NestJS;Membangun+API+yang+Bersih+%26+Skalabel;Selalu+Belajar+Hal+Baru)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=D4D4D4&center=true&vCenter=true&width=600&lines=%3E+Backend+Developer+_;%3E+Node.js+%C2%B7+TypeScript+%C2%B7+NestJS;%3E+Membangun+API+yang+Bersih+%26+Skalabel;%3E+Selalu+Belajar+Hal+Baru)](https://git.io/typing-svg)
 
 <p>
   <a href="https://linkedin.com/in/username-kamu" target="_blank">
@@ -33,17 +33,20 @@
 
 ---
 
-## 👋 Tentang Saya
+## `$` Tentang Saya
 
 Saya seorang **Backend Developer** yang berbasis di **Kota, Provinsi 🇮🇩**, saat ini bekerja di **Nama Perusahaan**, fokus membangun API, integrasi sistem, dan otomasi yang menyelesaikan masalah operasional nyata.
 
 Saya suka menulis kode yang bersih dan mudah dirawat, menjembatani kebutuhan bisnis dengan solusi teknis yang solid — dari keputusan arsitektur sampai deploy ke production.
 
-> *"Kode yang baik bukan cuma jalan, tapi juga mudah dipahami orang lain — termasuk diri sendiri enam bulan ke depan."*
+```
+> "Kode yang baik bukan cuma jalan, tapi juga mudah dipahami
+   orang lain — termasuk diri sendiri enam bulan ke depan."
+```
 
 ---
 
-## 🛠️ Tech Stack
+## `$` Tech Stack
 
 **Backend**
 
@@ -73,7 +76,7 @@ Saya suka menulis kode yang bersih dan mudah dirawat, menjembatani kebutuhan bis
 
 ---
 
-## 💼 Untuk Rekruter
+## `$` Untuk Rekruter
 
 Saya terbuka untuk peluang di tim yang menghargai:
 
@@ -91,6 +94,6 @@ Saya terbuka untuk peluang di tim yang menghargai:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E2E2E,100:0F0F0F&height=120&section=footer" width="100%"/>
 
-<sub>Dibuat dengan 💙 oleh Nama Kamu · Kota, Indonesia</sub>
+<sub><code>root@nama-kamu:~$ echo "Dibuat dengan 💙 · Kota, Indonesia"</code></sub>
 
 </div>
