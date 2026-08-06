@@ -1,3 +1,6 @@
+<table width="100%">
+<tr><td>
+
 ## 👋 About Me
 
 I'm a **Backend Developer** based in **City, Country 🌍**, currently working at **Your Company**, focused on building APIs, system integrations, and automations that solve real operational problems.
@@ -15,7 +18,13 @@ const me = {
 };
 ```
 
+</td></tr>
+</table>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<table width="100%">
+<tr><td>
 
 ## 🌐 Socials
 
@@ -30,7 +39,13 @@ const me = {
 <a href="https://yourwebsite.dev" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
+</td></tr>
+</table>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<table width="100%">
+<tr><td>
 
 ## 🧰 Tech Stack
 
@@ -63,7 +78,15 @@ const me = {
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </p>
 
-### 📦 Open Source Projects
+</td></tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<table width="100%">
+<tr><td>
+
+## 📦 Open Source Projects
 
 <table>
 <tr>
@@ -95,3 +118,14 @@ const me = {
 <td><img src="https://img.shields.io/badge/PRs-8%20open-1A1A2E?style=flat-square&labelColor=1A1A2E&color=EAB308"></td>
 </tr>
 </table>
+
+</td></tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<sub>⭐ If you like what you see, feel free to check out my repositories · Thanks for stopping by!</sub>
+
+</div>
