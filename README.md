@@ -11,12 +11,6 @@
 </p>
 
 ```ts
-while (true) {
-  eat();
-  sleep();
-  code();
-}
-
 const me = {
   role:       "Backend Developer",
   company:    "Your Company",
