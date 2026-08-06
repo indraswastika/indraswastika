@@ -1,167 +1,166 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:3B82F6&height=220&section=header&text=Your%20Name&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20API%20%26%20Systems%20Architect&descAlignY=55&descSize=20" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=560&lines=Building+scalable+APIs+%26+backend+systems;Turning+business+problems+into+clean+code;Always+shipping%2C+always+learning" alt="Typing SVG" />
-
-<br><br>
-
-<a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://yourwebsite.dev"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"></a>
-<a href="https://x.com/your_username"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-
-</div>
-
-<br>
-
-## 🧭 About
-
 <table width="100%">
-<tr>
-<td width="60%" valign="top">
+<tr><td>
 
-I'm a **Backend Developer** based in **City, Country** 🌍, currently building at **Your Company**.
+## 👋 About Me
 
-I design APIs, system integrations, and automations that turn messy operational problems into clean, dependable software — from the first architecture sketch to the production deploy.
+I'm a **Backend Developer** based in **City, Country 🌍**, currently working at **Your Company**, focused on building APIs, system integrations, and automations that solve real operational problems.
 
-- 🔭 Currently working on **Project / Product Name**
-- 🌱 Currently learning **New Tech / Concept**
-- 💬 Ask me about **Node.js, system design, or backend architecture**
-- ⚡ Fun fact: **Always learning something new every week**
+I enjoy writing clean, maintainable code that bridges business needs and solid technical solutions — from architecture decisions all the way to production deploys.
 
-</td>
-<td width="40%" valign="top">
-
-```yaml
-whoami:
-  name: Your Name
-  role: Backend Developer
-  location: City, Country
-  focus:
-    - REST & GraphQL APIs
-    - System Integrations
-    - Cloud Automation
-  status: open_to_work 🚀
+```ts
+const me = {
+  role:       "Backend Developer",
+  company:    "Your Company",
+  location:   "City, Country 🌍",
+  stack:      ["Node.js", "TypeScript", "NestJS", "Express"],
+  funFact:    "Always learning something new every week",
+  available:  true, // open to new opportunities 🚀
+};
 ```
 
-</td>
-</tr>
+</td></tr>
 </table>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<table width="100%">
+<tr><td>
+
+## 🌐 Socials
+
+<p>
+<a href="https://instagram.com/your_username" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://linkedin.com/in/your-username" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://medium.com/@your-username" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/your-username" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
+<a href="https://x.com/your_username" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+<a href="https://youtube.com/@your-username" target="_blank"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://yourwebsite.dev" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://discord.com/users/your-username" target="_blank"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://t.me/your_username" target="_blank"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://wa.me/62xxxxxxxxxx" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://dev.to/your-username" target="_blank"><img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white"></a>
+<a href="https://hashnode.com/@your-username" target="_blank"><img src="https://img.shields.io/badge/Hashnode-000000?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+<a href="https://dribbble.com/your-username" target="_blank"><img src="https://img.shields.io/badge/Dribbble-000000?style=for-the-badge&logo=dribbble&logoColor=white"></a>
+<a href="https://behance.net/your-username" target="_blank"><img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white"></a>
+<a href="https://tiktok.com/@your_username" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+<a href="https://facebook.com/your.username" target="_blank"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://reddit.com/user/your_username" target="_blank"><img src="https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=reddit&logoColor=white"></a>
+<a href="https://twitch.tv/your_username" target="_blank"><img src="https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=white"></a>
+<a href="https://buymeacoffee.com/your-username" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logo=buymeacoffee&logoColor=white"></a>
+</p>
+
+</td></tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<table width="100%">
+<tr><td>
 
 ## 🧰 Tech Stack
 
+<p>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=white">
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vuedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white">
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-000000?style=for-the-badge&logo=slack&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=white">
+<img src="https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=white">
+</p>
+
+</td></tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <table width="100%">
+<tr><td>
+
+## 📦 Open Source Projects
+
+<table>
 <tr>
-<td valign="top" width="33%">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=ts,js,py,go,java&theme=dark" />
-
-</td>
-<td valign="top" width="33%">
-
-**Backend & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,django,fastapi&theme=dark" />
-
-</td>
-<td valign="top" width="34%">
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
-
-</td>
+<th align="left">Project</th>
+<th>Stars</th>
+<th>Forks</th>
+<th>Issues</th>
+<th>Pull Requests</th>
 </tr>
 <tr>
-<td valign="top" width="33%">
-
-**DevOps & Cloud**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,nginx&theme=dark" />
-
-</td>
-<td valign="top" width="33%">
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode&theme=dark" />
-
-</td>
-<td valign="top" width="34%">
-
-**Frontend (bonus)**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,graphql&theme=dark" />
-
-</td>
+<td><a href="https://github.com/username-github/repo-one">repo-name-one</a></td>
+<td><img src="https://img.shields.io/badge/stars-191-000000?style=flat-square&labelColor=000000&color=000000"></td>
+<td><img src="https://img.shields.io/badge/forks-48-000000?style=flat-square&labelColor=000000&color=000000"></td>
+<td><img src="https://img.shields.io/badge/issues-9%20open-000000?style=flat-square&labelColor=000000&color=000000"></td>
+<td><img src="https://img.shields.io/badge/PRs-18%20open-000000?style=flat-square&labelColor=000000&color=000000"></td>
 </tr>
+<tr>
+<td><a href="https://github.com/username-github/repo-two">repo-name-two</a></td>
+<td><img src="https://img.shields.io/badge/stars-126-000000?style=flat-square&labelColor=000000&color=000000"></td>
+<td><img src="https://img.shields.io/badge/forks-26-000000?style=flat-square&labelColor=000000&color=000000"></td>
+<td><img src="https://img.shields.io/badge/issues-3%20open-000000?style=flat-square&labelColor=000000&color=000000"></td>
+<td><img src="https://img.shields.io/badge/PRs-24%20open-000000?style=flat-square&labelColor=000000&color=000000"></td>
+</tr>
+<tr>
+<td><a href="https://github.com/username-github/repo-three">repo-name-three</a></td>
+<td><img src="https://img.shields.io/badge/stars-47-000000?style=flat-square&labelColor=000000&color=000000"></td>
+<td><img src="https://img.shields.io/badge/forks-11-000000?style=flat-square&labelColor=000000&color=000000"></td>
+<td><img src="https://img.shields.io/badge/issues-0%20open-000000?style=flat-square&labelColor=000000&color=000000"></td>
+<td><img src="https://img.shields.io/badge/PRs-8%20open-000000?style=flat-square&labelColor=000000&color=000000"></td>
+</tr>
+</table>
+
+</td></tr>
 </table>
 
 <br>
 
-## 📊 GitHub Analytics
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" />
+<sub>⭐ If you like what you see, feel free to check out my repositories · Thanks for stopping by!</sub>
 
-<br>
-
-<img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=ffffff" width="100%"/>
-
-</div>
-
-<br>
-
-## 📦 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/username-github/repo-one">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=username-github&repo=repo-one&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/username-github/repo-two">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=username-github&repo=repo-two&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" />
-</a>
-
-<a href="https://github.com/username-github/repo-three">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=username-github&repo=repo-three&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" />
-</a>
-
-</div>
-
-<br>
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://instagram.com/your_username"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://medium.com/@your-username"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
-<a href="https://stackoverflow.com/users/your-username"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
-<a href="https://youtube.com/@your-username"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://discord.com/users/your-username"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://t.me/your_username"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://dev.to/your-username"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:0F172A&height=100&section=footer" width="100%"/>
-
-<div align="center">
-<sub>⭐ If you like what you see, check out my repositories — thanks for stopping by!</sub>
 </div>
